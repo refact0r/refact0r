@@ -11,7 +11,7 @@ https://refact0r.dev
     width: 100%;
     height: 100%;
     position: fixed;
-    z-index: -10;
+    z-index: -11;
     pointer-events: none;
     background: url(https://raw.githubusercontent.com/refact0r/refact0r/main/jjpQGeno.gif);
 ]{x0000}$}
