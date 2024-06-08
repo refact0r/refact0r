@@ -13,6 +13,6 @@ https://refact0r.dev
     position: fixed;
     z-index: -10;
     pointer-events: none;
-    background: red;
+    background: url(https://raw.githubusercontent.com/refact0r/refact0r/main/jjpQGeno.gif);
 ]{x0000}$}
 ```
