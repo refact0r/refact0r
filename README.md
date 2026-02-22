@@ -1,5 +1,3 @@
-hey there! i'm yifan, a cs student interested in ai, web dev, design, and more. 
-
 check out my website: https://refact0r.dev
 
 <picture>
