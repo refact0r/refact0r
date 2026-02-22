@@ -9,11 +9,11 @@
         aria-labelledby="descId"
       >
         <title id="titleId">refact0r's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 4133, Total Commits  (last year) : 1381, Total PRs: 49, Total Issues: 23, Contributed to (last year): 9</desc>
+        <desc id="descId">Total Stars Earned: 4133, Total Commits  (last year) : 1383, Total PRs: 49, Total Issues: 23, Contributed to (last year): 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #58a6ff;
+            fill: #006AFF;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -22,7 +22,7 @@
           }
           
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #c9d1d9;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #417E87;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -33,7 +33,7 @@
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9;
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #417E87;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     .rank-percentile-header {
@@ -46,18 +46,18 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #58a6ff;
+      fill: #0579C3;
       display: block;
     }
 
     .rank-circle-rim {
-      stroke: #58a6ff;
+      stroke: #006AFF;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #58a6ff;
+      stroke: #006AFF;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 60.37462209359581;
+        stroke-dashoffset: 60.36958812157092;
       }
     }
   
@@ -111,7 +111,7 @@
           height="99%"
           stroke="#e4e2e2"
           width="466"
-          fill="#0d1117"
+          fill="#ffffff00"
           stroke-opacity="0"
         />
 
