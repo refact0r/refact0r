@@ -1,15 +1,15 @@
 
       <svg
         width="467"
-        height="195"
-        viewBox="0 0 467 195"
+        height="165"
+        viewBox="0 0 467 165"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
         <title id="titleId">refact0r's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 4133, Total Commits  (last year) : 1384, Total PRs: 49, Total Issues: 23, Contributed to (last year): 9</desc>
+        <desc id="descId">Total Stars Earned: 4134, Total Commits  (last year) : 1386, Total PRs: 49, Total Issues: 23, Contributed to (last year): 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 60.367081584080395;
+        stroke-dashoffset: 60.361849973227876;
       }
     }
   
@@ -116,24 +116,10 @@
         />
 
         
-      <g
-        data-testid="card-title"
-        transform="translate(25, 35)"
-      >
-        <g transform="translate(0, 0)">
-      <text
-        x="0"
-        y="0"
-        class="header"
-        data-testid="header"
-      >refact0r's GitHub Stats</text>
-    </g>
-      </g>
-    
 
         <g
           data-testid="main-card-body"
-          transform="translate(0, 55)"
+          transform="translate(0, 25)"
         >
           
     <g data-testid="rank-circle"
