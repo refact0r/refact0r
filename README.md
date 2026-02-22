@@ -1,6 +1,15 @@
-https://refact0r.dev
+hey there! i'm yifan, a cs student interested in ai, web dev, design, and more. 
 
-![github stats](./profile/stats.svg)
+check out my website: https://refact0r.dev
 
-![Refact0r's Github Stats](https://github-readme-stats.vercel.app/api?username=refact0r&show_icons=true&border_radius=20&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&hide_border=true)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=refact0r&layout=compact&border_radius=20&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&hide_border=true)
+<picture>
+  <source
+    srcset="./profile/stats-dark.svg"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="./profile/stats-light.svg"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="./profile/stats-light.svg" />
+</picture>
