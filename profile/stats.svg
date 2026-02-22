@@ -9,11 +9,11 @@
         aria-labelledby="descId"
       >
         <title id="titleId">refact0r's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 4133, Total Commits  (last year) : 1380, Total PRs: 49, Total Issues: 23, Contributed to (last year): 9</desc>
+        <desc id="descId">Total Stars Earned: 4133, Total Commits  (last year) : 1381, Total PRs: 49, Total Issues: 23, Contributed to (last year): 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #2f80ed;
+            fill: #58a6ff;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -22,7 +22,7 @@
           }
           
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #434d58;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #c9d1d9;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -33,7 +33,7 @@
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58;
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     .rank-percentile-header {
@@ -46,18 +46,18 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #4c71f2;
+      fill: #58a6ff;
       display: block;
     }
 
     .rank-circle-rim {
-      stroke: #2f80ed;
+      stroke: #58a6ff;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #2f80ed;
+      stroke: #58a6ff;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 60.37714956682765;
+        stroke-dashoffset: 60.37462209359581;
       }
     }
   
@@ -107,12 +107,12 @@
           data-testid="card-bg"
           x="0.5"
           y="0.5"
-          rx="4.5"
+          rx="24"
           height="99%"
           stroke="#e4e2e2"
           width="466"
-          fill="#fffefe"
-          stroke-opacity="1"
+          fill="#0d1117"
+          stroke-opacity="0"
         />
 
         
