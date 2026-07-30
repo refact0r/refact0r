@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate stats card (dark)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2.0.2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&hide_title=true&number_format=long&border_radius=24&bg_color=00000000&text_color=f0f6fc&title_color=4493f8&icon_color=4493f8&&hide_border=true
@@ -20,7 +20,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate stats card (light)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2.0.2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&hide_title=true&number_format=long&border_radius=24&bg_color=00000000&text_color=1f2328&title_color=096bda&icon_color=096bda&&hide_border=true
